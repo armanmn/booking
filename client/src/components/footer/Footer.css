@@ -7,8 +7,8 @@
 .fLists {
     width: 100%;
     display: flex;
-    justify-content: space-between;
-    margin-bottom: 50px;
+    justify-content: space-around;
+    margin-bottom: 30px;
 }
 
 .fList {
